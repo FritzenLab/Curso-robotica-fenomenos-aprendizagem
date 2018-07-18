@@ -1,0 +1,6 @@
+Imagem arduino real: https://pt.wikipedia.org/wiki/Ficheiro:Arduino-uno-perspective-transparent.png#file
+Desenho placa Arduino: https://pixabay.com/pt/arduino-arduino-uno-tecnologia-2168193/
+Imagem do software/IDE: https://en.wikipedia.org/wiki/File:Arduino_1.0_IDE,_Ubuntu_11.10.png
+Impressora 3D: https://vi.wikipedia.org/wiki/In_3D#/media/File:Printing_with_a_3D_printer_at_Makers_Party_Bangalore_2013_11.JPG
+Robo arduino: https://commons.wikimedia.org/wiki/File:Basic_robot.jpg
+Jardinagem arduino: https://en.wikipedia.org/wiki/File:FarmBot_Genesis_with_solar_power_and_compost_1.jpg
